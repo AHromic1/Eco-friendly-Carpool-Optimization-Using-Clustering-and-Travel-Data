@@ -1,0 +1,301 @@
+mission_id,person_id,start_city,end_city,start_date,end_date,event,real_move,travel_type,vehicle_type,is_return_trip,km,parking_cost,hotel_cost,plane_cost,reimbursement,total_cost,nearest_airport
+1,1,Montbéliard,Strasbourg,2025-05-04 09:00:00,2025-05-06 08:00:00,Conference,True,plane,,False,140,0,200,120,135,455,Basel-Mulhouse
+2,2,Belfort,Paris,2025-05-04 15:45:00,2025-05-07 14:45:00,Conference,True,plane,,True,732,0,300,120,143,563,Basel-Mulhouse
+3,3,Montbéliard,Paris,2025-05-01 16:00:00,2025-05-02 20:15:00,Training,True,plane,,False,507,0,100,120,149,369,Basel-Mulhouse
+4,4,Montbéliard,Strasbourg,2025-05-03 15:15:00,2025-05-04 19:45:00,Training,True,plane,,False,779,0,100,120,131,351,Basel-Mulhouse
+5,5,Besançon,Strasbourg,2025-05-02 18:45:00,2025-05-04 13:15:00,Meeting,True,plane,,False,457,0,200,120,106,426,Dole-Jura
+6,6,Besançon,Strasbourg,2025-05-11 15:45:00,2025-05-12 20:30:00,Meeting,True,car,,False,653,10,100,0,119,229,
+7,7,Besançon,Dijon,2025-05-06 14:45:00,2025-05-09 08:45:00,Training,True,car,,True,772,30,300,0,117,447,
+8,8,Montbéliard,Marseille,2025-05-03 17:30:00,2025-05-04 10:45:00,Conference,True,plane,,True,555,0,100,120,136,356,Basel-Mulhouse
+9,9,Besançon,Dijon,2025-05-08 10:15:00,2025-05-09 12:00:00,Meeting,True,car,,False,210,10,100,0,115,225,
+10,10,Belfort,Strasbourg,2025-05-01 20:15:00,2025-05-03 15:00:00,Meeting,True,car,Renault Clio,True,673,20,200,0,80,300,
+11,11,Montbéliard,Lyon,2025-05-06 15:45:00,2025-05-07 19:30:00,Meeting,True,car,Renault Clio,True,729,10,100,0,104,214,
+12,12,Besançon,Lyon,2025-05-09 09:45:00,2025-05-12 14:00:00,Conference,True,car,,False,455,30,300,0,133,463,
+13,13,Besançon,Dijon,2025-05-04 19:15:00,2025-05-05 10:15:00,Conference,True,plane,,True,111,0,100,120,91,311,Dole-Jura
+14,14,Montbéliard,Lyon,2025-05-05 12:15:00,2025-05-08 11:00:00,Meeting,True,car,,True,148,30,300,0,110,440,
+15,15,Belfort,Paris,2025-05-11 11:15:00,2025-05-14 07:00:00,Meeting,True,plane,,False,235,0,300,120,150,570,Basel-Mulhouse
+16,16,Belfort,Dijon,2025-05-11 07:00:00,2025-05-12 13:00:00,Training,True,car,Audi A4,True,103,10,100,0,109,219,
+17,17,Montbéliard,Paris,2025-05-06 07:30:00,2025-05-08 12:45:00,Meeting,True,car,Toyota Prius,False,252,20,200,0,106,326,
+18,18,Belfort,Toulouse,2025-05-07 15:45:00,2025-05-08 15:30:00,Meeting,True,plane,,False,102,0,100,120,111,331,Basel-Mulhouse
+19,19,Montbéliard,Lyon,2025-05-01 17:00:00,2025-05-02 18:45:00,Meeting,True,car,Renault Clio,True,795,10,100,0,116,226,
+20,20,Belfort,Dijon,2025-05-01 07:00:00,2025-05-02 18:30:00,Meeting,True,plane,,False,387,0,100,120,96,316,Basel-Mulhouse
+21,21,Besançon,Lyon,2025-05-04 10:30:00,2025-05-07 16:15:00,Meeting,True,plane,,False,645,0,300,120,105,525,Dole-Jura
+22,22,Besançon,Nice,2025-05-07 12:30:00,2025-05-08 16:00:00,Meeting,True,plane,,False,554,0,100,120,79,299,Dole-Jura
+23,23,Besançon,Lyon,2025-05-07 08:15:00,2025-05-08 06:00:00,Training,True,plane,,True,603,0,100,120,59,279,Dole-Jura
+24,24,Besançon,Lyon,2025-05-09 18:15:00,2025-05-12 17:00:00,Training,True,car,Audi A4,False,496,30,300,0,133,463,
+25,25,Besançon,Nice,2025-05-11 09:00:00,2025-05-13 12:15:00,Conference,True,car,Audi A4,True,423,20,200,0,101,321,
+26,26,Montbéliard,Strasbourg,2025-05-09 06:00:00,2025-05-10 20:00:00,Conference,True,car,Toyota Prius,True,221,10,100,0,60,170,
+27,27,Besançon,Nice,2025-05-09 20:45:00,2025-05-10 12:15:00,Meeting,True,car,Audi A4,False,505,10,100,0,132,242,
+28,28,Belfort,Nice,2025-05-06 06:15:00,2025-05-08 15:45:00,Training,True,car,,True,487,20,200,0,112,332,
+29,29,Besançon,Marseille,2025-05-06 09:00:00,2025-05-07 10:45:00,Training,True,plane,,False,198,0,100,120,93,313,Dole-Jura
+30,30,Montbéliard,Toulouse,2025-05-06 14:00:00,2025-05-08 12:00:00,Meeting,True,plane,,True,629,0,200,120,105,425,Basel-Mulhouse
+31,31,Belfort,Marseille,2025-05-05 07:00:00,2025-05-08 07:45:00,Meeting,True,car,,False,415,30,300,0,124,454,
+32,32,Montbéliard,Toulouse,2025-05-03 17:30:00,2025-05-04 17:15:00,Meeting,True,plane,,True,184,0,100,120,145,365,Basel-Mulhouse
+33,33,Belfort,Strasbourg,2025-05-08 18:45:00,2025-05-09 12:15:00,Conference,True,plane,,True,734,0,100,120,53,273,Basel-Mulhouse
+34,34,Montbéliard,Nice,2025-05-06 13:00:00,2025-05-09 16:15:00,Meeting,True,plane,,False,124,0,300,120,56,476,Basel-Mulhouse
+35,35,Belfort,Nice,2025-05-05 10:00:00,2025-05-08 11:15:00,Training,True,plane,,False,327,0,300,120,117,537,Basel-Mulhouse
+36,36,Montbéliard,Lyon,2025-05-09 20:15:00,2025-05-10 06:15:00,Training,True,car,Fiat Panda,True,618,10,100,0,70,180,
+37,37,Montbéliard,Dijon,2025-05-01 06:45:00,2025-05-03 16:00:00,Training,True,car,Renault Clio,False,180,20,200,0,144,364,
+38,38,Belfort,Dijon,2025-05-06 08:45:00,2025-05-07 19:15:00,Conference,True,plane,,False,479,0,100,120,137,357,Basel-Mulhouse
+39,39,Belfort,Strasbourg,2025-05-02 20:30:00,2025-05-03 17:30:00,Meeting,True,plane,,True,264,0,100,120,57,277,Basel-Mulhouse
+40,40,Montbéliard,Dijon,2025-05-04 06:45:00,2025-05-05 07:30:00,Meeting,True,plane,,False,188,0,100,120,121,341,Basel-Mulhouse
+41,41,Belfort,Nice,2025-05-09 06:45:00,2025-05-11 15:15:00,Meeting,True,car,Renault Clio,True,136,20,200,0,73,293,
+42,42,Besançon,Paris,2025-05-07 17:30:00,2025-05-10 08:15:00,Meeting,True,plane,,False,674,0,300,120,132,552,Dole-Jura
+43,43,Montbéliard,Toulouse,2025-05-04 14:45:00,2025-05-06 20:30:00,Conference,True,car,,True,106,20,200,0,100,320,
+44,44,Besançon,Paris,2025-05-11 10:00:00,2025-05-14 06:30:00,Training,True,car,Audi A4,True,744,30,300,0,79,409,
+45,45,Belfort,Lyon,2025-05-04 09:15:00,2025-05-06 20:15:00,Conference,True,plane,,False,507,0,200,120,60,380,Basel-Mulhouse
+46,46,Montbéliard,Toulouse,2025-05-04 18:15:00,2025-05-05 09:45:00,Training,True,car,Audi A4,False,711,10,100,0,114,224,
+47,47,Besançon,Toulouse,2025-05-01 07:45:00,2025-05-02 17:30:00,Training,True,car,Peugeot 208,False,383,10,100,0,148,258,
+48,48,Belfort,Lyon,2025-05-08 11:45:00,2025-05-10 08:30:00,Training,True,plane,,True,208,0,200,120,59,379,Basel-Mulhouse
+49,49,Belfort,Dijon,2025-05-10 13:00:00,2025-05-11 15:45:00,Training,True,plane,,False,789,0,100,120,67,287,Basel-Mulhouse
+50,50,Belfort,Dijon,2025-05-05 18:30:00,2025-05-07 06:15:00,Meeting,True,plane,,True,353,0,200,120,150,470,Basel-Mulhouse
+51,51,Besançon,Paris,2025-05-03 20:30:00,2025-05-06 15:00:00,Meeting,True,plane,,True,174,0,300,120,62,482,Dole-Jura
+52,52,Belfort,Strasbourg,2025-05-06 12:15:00,2025-05-09 09:00:00,Training,True,plane,,False,732,0,300,120,132,552,Basel-Mulhouse
+53,53,Belfort,Marseille,2025-05-06 07:15:00,2025-05-07 20:00:00,Training,True,plane,,False,198,0,100,120,100,320,Basel-Mulhouse
+54,54,Belfort,Strasbourg,2025-05-09 18:30:00,2025-05-11 14:45:00,Conference,True,plane,,False,128,0,200,120,150,470,Basel-Mulhouse
+55,55,Belfort,Paris,2025-05-04 13:15:00,2025-05-05 19:45:00,Meeting,True,plane,,True,318,0,100,120,120,340,Basel-Mulhouse
+56,56,Besançon,Strasbourg,2025-05-07 20:30:00,2025-05-10 10:15:00,Meeting,True,car,Peugeot 208,True,253,30,300,0,73,403,
+57,57,Montbéliard,Nice,2025-05-05 06:15:00,2025-05-08 14:45:00,Conference,True,car,,False,480,30,300,0,105,435,
+58,58,Montbéliard,Marseille,2025-05-04 07:30:00,2025-05-06 12:30:00,Conference,True,car,Peugeot 208,True,171,20,200,0,91,311,
+59,59,Montbéliard,Nice,2025-05-02 09:45:00,2025-05-04 15:30:00,Conference,True,plane,,True,307,0,200,120,129,449,Basel-Mulhouse
+60,60,Besançon,Dijon,2025-05-02 07:45:00,2025-05-04 14:30:00,Meeting,True,car,Fiat Panda,True,104,20,200,0,112,332,
+61,61,Montbéliard,Strasbourg,2025-05-10 14:30:00,2025-05-12 17:45:00,Meeting,True,plane,,False,110,0,200,120,98,418,Basel-Mulhouse
+62,62,Belfort,Strasbourg,2025-05-04 12:15:00,2025-05-07 16:30:00,Training,True,car,,False,387,30,300,0,54,384,
+63,63,Montbéliard,Toulouse,2025-05-01 19:00:00,2025-05-04 11:15:00,Meeting,True,car,,False,578,30,300,0,137,467,
+64,64,Belfort,Lyon,2025-05-09 11:45:00,2025-05-11 15:45:00,Training,True,car,,True,602,20,200,0,133,353,
+65,65,Montbéliard,Nice,2025-05-01 07:00:00,2025-05-04 13:00:00,Conference,True,car,Fiat Panda,True,610,30,300,0,134,464,
+66,66,Montbéliard,Strasbourg,2025-05-10 12:15:00,2025-05-13 08:00:00,Training,True,plane,,False,115,0,300,120,106,526,Basel-Mulhouse
+67,67,Montbéliard,Paris,2025-05-06 15:00:00,2025-05-07 09:00:00,Training,True,car,Toyota Prius,False,692,10,100,0,87,197,
+68,68,Montbéliard,Toulouse,2025-05-11 18:00:00,2025-05-13 13:15:00,Meeting,True,car,,False,793,20,200,0,123,343,
+69,69,Montbéliard,Toulouse,2025-05-11 18:30:00,2025-05-12 10:15:00,Meeting,True,car,,True,242,10,100,0,54,164,
+70,70,Montbéliard,Strasbourg,2025-05-07 12:00:00,2025-05-08 13:00:00,Conference,True,plane,,True,457,0,100,120,138,358,Basel-Mulhouse
+71,71,Belfort,Marseille,2025-05-01 08:00:00,2025-05-02 11:45:00,Meeting,True,car,,True,684,10,100,0,68,178,
+72,72,Besançon,Strasbourg,2025-05-02 15:00:00,2025-05-04 16:00:00,Meeting,True,car,Fiat Panda,False,180,20,200,0,101,321,
+73,73,Besançon,Marseille,2025-05-04 14:00:00,2025-05-05 15:15:00,Meeting,True,plane,,False,488,0,100,120,61,281,Dole-Jura
+74,74,Belfort,Marseille,2025-05-11 10:15:00,2025-05-14 11:45:00,Conference,True,plane,,False,701,0,300,120,128,548,Basel-Mulhouse
+75,75,Montbéliard,Marseille,2025-05-11 13:45:00,2025-05-14 19:15:00,Training,True,plane,,False,669,0,300,120,103,523,Basel-Mulhouse
+76,76,Belfort,Strasbourg,2025-05-11 20:45:00,2025-05-13 14:30:00,Conference,True,car,Peugeot 208,False,748,20,200,0,93,313,
+77,77,Belfort,Dijon,2025-05-11 09:30:00,2025-05-12 10:15:00,Meeting,True,plane,,False,193,0,100,120,100,320,Basel-Mulhouse
+78,78,Belfort,Strasbourg,2025-05-05 12:45:00,2025-05-08 11:15:00,Meeting,True,car,Tesla Model 3,False,128,30,300,0,68,398,
+79,79,Montbéliard,Marseille,2025-05-11 20:45:00,2025-05-14 10:30:00,Meeting,True,plane,,False,471,0,300,120,103,523,Basel-Mulhouse
+80,80,Belfort,Dijon,2025-05-08 11:00:00,2025-05-10 09:45:00,Training,True,car,Audi A4,True,335,20,200,0,58,278,
+81,81,Belfort,Lyon,2025-05-06 13:15:00,2025-05-07 20:15:00,Meeting,True,plane,,True,438,0,100,120,76,296,Basel-Mulhouse
+82,82,Belfort,Toulouse,2025-05-10 06:00:00,2025-05-11 08:00:00,Meeting,True,car,Peugeot 208,True,377,10,100,0,93,203,
+83,83,Belfort,Paris,2025-05-05 13:15:00,2025-05-08 11:45:00,Conference,True,car,Fiat Panda,True,410,30,300,0,119,449,
+84,84,Besançon,Marseille,2025-05-11 17:45:00,2025-05-12 19:30:00,Meeting,True,car,Tesla Model 3,True,674,10,100,0,149,259,
+85,85,Besançon,Nice,2025-05-10 19:00:00,2025-05-11 18:00:00,Training,True,plane,,True,589,0,100,120,137,357,Dole-Jura
+86,86,Belfort,Toulouse,2025-05-09 20:00:00,2025-05-10 13:45:00,Meeting,True,car,,True,271,10,100,0,142,252,
+87,87,Belfort,Nice,2025-05-07 14:00:00,2025-05-09 20:00:00,Conference,True,car,Peugeot 208,False,239,20,200,0,149,369,
+88,88,Besançon,Strasbourg,2025-05-09 17:45:00,2025-05-10 08:30:00,Training,True,plane,,False,788,0,100,120,113,333,Dole-Jura
+89,89,Besançon,Strasbourg,2025-05-02 07:30:00,2025-05-04 09:15:00,Conference,True,car,Fiat Panda,True,745,20,200,0,129,349,
+90,90,Besançon,Strasbourg,2025-05-05 13:45:00,2025-05-07 09:30:00,Meeting,True,car,,True,774,20,200,0,118,338,
+91,91,Belfort,Toulouse,2025-05-01 09:45:00,2025-05-02 06:15:00,Meeting,True,car,,True,135,10,100,0,111,221,
+92,92,Montbéliard,Dijon,2025-05-04 16:15:00,2025-05-05 13:45:00,Meeting,True,plane,,False,673,0,100,120,149,369,Basel-Mulhouse
+93,93,Belfort,Lyon,2025-05-05 07:45:00,2025-05-07 13:30:00,Conference,True,car,,True,142,20,200,0,93,313,
+94,94,Montbéliard,Marseille,2025-05-10 10:00:00,2025-05-11 20:45:00,Meeting,True,car,Fiat Panda,False,457,10,100,0,126,236,
+95,95,Belfort,Nice,2025-05-04 12:15:00,2025-05-07 14:30:00,Conference,True,plane,,True,736,0,300,120,124,544,Basel-Mulhouse
+96,96,Montbéliard,Toulouse,2025-05-04 20:30:00,2025-05-06 14:00:00,Meeting,True,car,Peugeot 208,True,371,20,200,0,87,307,
+97,97,Montbéliard,Dijon,2025-05-09 10:45:00,2025-05-12 16:30:00,Conference,True,plane,,False,341,0,300,120,148,568,Basel-Mulhouse
+98,98,Besançon,Strasbourg,2025-05-05 14:30:00,2025-05-08 08:15:00,Training,True,plane,,False,264,0,300,120,89,509,Dole-Jura
+99,99,Montbéliard,Marseille,2025-05-07 11:45:00,2025-05-10 18:15:00,Meeting,True,plane,,True,625,0,300,120,95,515,Basel-Mulhouse
+100,100,Montbéliard,Dijon,2025-05-03 09:15:00,2025-05-05 08:00:00,Conference,True,car,,False,518,20,200,0,63,283,
+101,101,Besançon,Strasbourg,2025-05-01 17:15:00,2025-05-02 19:45:00,Training,True,car,Toyota Prius,False,220,10,100,0,111,221,
+102,102,Besançon,Marseille,2025-05-03 18:00:00,2025-05-06 08:15:00,Conference,True,car,,True,264,30,300,0,61,391,
+103,103,Belfort,Lyon,2025-05-05 12:15:00,2025-05-08 07:00:00,Meeting,True,plane,,False,335,0,300,120,139,559,Basel-Mulhouse
+104,104,Montbéliard,Strasbourg,2025-05-02 07:15:00,2025-05-03 06:30:00,Meeting,True,plane,,True,310,0,100,120,52,272,Basel-Mulhouse
+105,105,Belfort,Paris,2025-05-08 10:45:00,2025-05-10 18:00:00,Meeting,True,plane,,False,320,0,200,120,95,415,Basel-Mulhouse
+106,106,Belfort,Paris,2025-05-09 15:45:00,2025-05-11 18:15:00,Training,True,car,,True,380,20,200,0,112,332,
+107,107,Belfort,Toulouse,2025-05-06 15:00:00,2025-05-07 12:45:00,Training,True,car,,True,749,10,100,0,50,160,
+108,108,Besançon,Nice,2025-05-06 17:15:00,2025-05-09 20:45:00,Conference,True,car,,False,310,30,300,0,54,384,
+109,109,Belfort,Marseille,2025-05-01 12:00:00,2025-05-03 20:00:00,Training,True,plane,,True,456,0,200,120,104,424,Basel-Mulhouse
+110,110,Besançon,Paris,2025-05-03 10:15:00,2025-05-04 11:00:00,Conference,True,plane,,False,496,0,100,120,60,280,Dole-Jura
+111,111,Besançon,Dijon,2025-05-11 18:00:00,2025-05-12 12:00:00,Meeting,True,plane,,False,781,0,100,120,129,349,Dole-Jura
+112,112,Besançon,Marseille,2025-05-01 06:15:00,2025-05-03 12:00:00,Meeting,True,plane,,True,116,0,200,120,84,404,Dole-Jura
+113,113,Belfort,Strasbourg,2025-05-01 19:15:00,2025-05-03 13:45:00,Conference,True,car,,True,614,20,200,0,74,294,
+114,114,Besançon,Marseille,2025-05-01 10:45:00,2025-05-04 20:30:00,Meeting,True,car,Fiat Panda,False,510,30,300,0,110,440,
+115,115,Montbéliard,Strasbourg,2025-05-09 14:15:00,2025-05-11 10:30:00,Conference,True,car,Audi A4,True,295,20,200,0,146,366,
+116,116,Besançon,Paris,2025-05-03 06:15:00,2025-05-06 09:15:00,Meeting,True,plane,,True,652,0,300,120,88,508,Dole-Jura
+117,117,Montbéliard,Paris,2025-05-07 10:45:00,2025-05-10 15:45:00,Meeting,True,car,Renault Clio,False,152,30,300,0,65,395,
+118,118,Besançon,Strasbourg,2025-05-09 07:15:00,2025-05-10 18:15:00,Training,True,plane,,True,414,0,100,120,50,270,Dole-Jura
+119,119,Montbéliard,Paris,2025-05-07 10:00:00,2025-05-10 15:00:00,Meeting,True,plane,,False,249,0,300,120,108,528,Basel-Mulhouse
+120,120,Besançon,Marseille,2025-05-03 15:45:00,2025-05-05 19:30:00,Training,True,plane,,False,439,0,200,120,56,376,Dole-Jura
+121,121,Montbéliard,Nice,2025-05-09 06:30:00,2025-05-12 12:00:00,Training,True,plane,,False,335,0,300,120,110,530,Basel-Mulhouse
+122,122,Belfort,Dijon,2025-05-01 11:00:00,2025-05-02 08:00:00,Training,True,car,Renault Clio,True,262,10,100,0,77,187,
+123,123,Besançon,Paris,2025-05-01 06:00:00,2025-05-02 12:15:00,Meeting,True,car,Peugeot 208,False,402,10,100,0,66,176,
+124,124,Belfort,Marseille,2025-05-04 13:15:00,2025-05-06 07:00:00,Training,True,car,Fiat Panda,False,270,20,200,0,51,271,
+125,125,Belfort,Paris,2025-05-11 13:30:00,2025-05-12 17:30:00,Conference,True,car,Toyota Prius,True,425,10,100,0,72,182,
+126,126,Belfort,Paris,2025-05-02 17:30:00,2025-05-05 15:00:00,Meeting,True,car,Renault Clio,True,590,30,300,0,70,400,
+127,127,Belfort,Strasbourg,2025-05-06 10:15:00,2025-05-09 18:45:00,Conference,True,plane,,True,320,0,300,120,143,563,Basel-Mulhouse
+128,128,Montbéliard,Toulouse,2025-05-08 13:00:00,2025-05-09 13:45:00,Conference,True,car,,True,628,10,100,0,100,210,
+129,129,Belfort,Marseille,2025-05-09 18:15:00,2025-05-11 17:00:00,Meeting,True,car,Audi A4,True,340,20,200,0,115,335,
+130,130,Belfort,Toulouse,2025-05-01 07:45:00,2025-05-04 06:45:00,Training,True,car,,True,768,30,300,0,101,431,
+131,131,Montbéliard,Strasbourg,2025-05-04 12:00:00,2025-05-07 20:30:00,Meeting,True,car,Toyota Prius,False,214,30,300,0,78,408,
+132,132,Besançon,Dijon,2025-05-11 11:30:00,2025-05-13 08:15:00,Training,True,plane,,False,794,0,200,120,115,435,Dole-Jura
+133,133,Besançon,Strasbourg,2025-05-07 14:15:00,2025-05-08 16:00:00,Meeting,True,car,,True,416,10,100,0,97,207,
+134,134,Montbéliard,Lyon,2025-05-08 08:00:00,2025-05-10 07:15:00,Conference,True,plane,,False,727,0,200,120,74,394,Basel-Mulhouse
+135,135,Montbéliard,Strasbourg,2025-05-05 15:15:00,2025-05-06 18:15:00,Conference,True,plane,,True,257,0,100,120,129,349,Basel-Mulhouse
+136,136,Belfort,Paris,2025-05-07 15:30:00,2025-05-10 16:45:00,Conference,True,car,,False,647,30,300,0,99,429,
+137,137,Montbéliard,Nice,2025-05-11 16:15:00,2025-05-14 12:45:00,Meeting,True,plane,,True,263,0,300,120,71,491,Basel-Mulhouse
+138,138,Belfort,Toulouse,2025-05-03 13:15:00,2025-05-04 07:15:00,Meeting,True,plane,,True,543,0,100,120,71,291,Basel-Mulhouse
+139,139,Besançon,Paris,2025-05-04 09:45:00,2025-05-07 18:15:00,Conference,True,car,Fiat Panda,True,262,30,300,0,67,397,
+140,140,Montbéliard,Nice,2025-05-05 09:30:00,2025-05-06 08:45:00,Meeting,True,car,,False,647,10,100,0,114,224,
+141,141,Belfort,Lyon,2025-05-06 11:15:00,2025-05-08 12:15:00,Training,True,car,Tesla Model 3,False,353,20,200,0,140,360,
+142,142,Besançon,Toulouse,2025-05-01 09:00:00,2025-05-02 06:30:00,Training,True,car,,True,441,10,100,0,99,209,
+143,143,Besançon,Toulouse,2025-05-06 10:30:00,2025-05-07 09:00:00,Training,True,plane,,True,696,0,100,120,84,304,Dole-Jura
+144,144,Besançon,Paris,2025-05-07 12:15:00,2025-05-10 09:30:00,Training,True,plane,,False,305,0,300,120,79,499,Dole-Jura
+145,145,Belfort,Paris,2025-05-07 09:45:00,2025-05-10 17:00:00,Training,True,plane,,True,580,0,300,120,131,551,Basel-Mulhouse
+146,146,Belfort,Toulouse,2025-05-09 09:45:00,2025-05-12 12:45:00,Meeting,True,car,Toyota Prius,True,137,30,300,0,124,454,
+147,147,Belfort,Strasbourg,2025-05-10 09:15:00,2025-05-12 12:30:00,Conference,True,plane,,False,213,0,200,120,52,372,Basel-Mulhouse
+148,148,Belfort,Marseille,2025-05-09 06:00:00,2025-05-10 06:30:00,Meeting,True,car,,False,156,10,100,0,78,188,
+149,149,Montbéliard,Toulouse,2025-05-09 14:00:00,2025-05-11 09:30:00,Conference,True,car,Fiat Panda,False,370,20,200,0,129,349,
+150,150,Belfort,Nice,2025-05-03 15:45:00,2025-05-05 08:15:00,Meeting,True,plane,,False,267,0,200,120,89,409,Basel-Mulhouse
+151,151,Montbéliard,Nice,2025-05-01 12:15:00,2025-05-02 07:00:00,Meeting,True,plane,,True,655,0,100,120,101,321,Basel-Mulhouse
+152,152,Montbéliard,Paris,2025-05-10 13:30:00,2025-05-12 10:15:00,Meeting,True,plane,,False,486,0,200,120,116,436,Basel-Mulhouse
+153,153,Besançon,Nice,2025-05-09 06:30:00,2025-05-10 10:00:00,Training,True,plane,,True,285,0,100,120,89,309,Dole-Jura
+154,154,Besançon,Marseille,2025-05-10 11:30:00,2025-05-13 16:30:00,Training,True,car,Toyota Prius,False,125,30,300,0,130,460,
+155,155,Belfort,Dijon,2025-05-07 15:30:00,2025-05-08 18:00:00,Training,True,car,Audi A4,False,290,10,100,0,63,173,
+156,156,Belfort,Marseille,2025-05-02 13:00:00,2025-05-04 13:30:00,Training,True,plane,,True,123,0,200,120,142,462,Basel-Mulhouse
+157,157,Besançon,Strasbourg,2025-05-02 17:00:00,2025-05-05 14:00:00,Training,True,car,,True,140,30,300,0,101,431,
+158,158,Montbéliard,Lyon,2025-05-09 07:45:00,2025-05-11 19:15:00,Training,True,car,Audi A4,False,310,20,200,0,105,325,
+159,159,Besançon,Strasbourg,2025-05-06 17:00:00,2025-05-07 20:00:00,Training,True,car,Peugeot 208,True,273,10,100,0,51,161,
+160,160,Belfort,Strasbourg,2025-05-01 20:45:00,2025-05-02 13:00:00,Meeting,True,plane,,True,677,0,100,120,109,329,Basel-Mulhouse
+161,161,Belfort,Toulouse,2025-05-07 20:45:00,2025-05-09 10:00:00,Meeting,True,plane,,False,649,0,200,120,143,463,Basel-Mulhouse
+162,162,Besançon,Nice,2025-05-01 20:00:00,2025-05-02 07:15:00,Meeting,True,car,,False,798,10,100,0,116,226,
+163,163,Montbéliard,Lyon,2025-05-11 18:00:00,2025-05-14 13:15:00,Meeting,True,plane,,True,282,0,300,120,83,503,Basel-Mulhouse
+164,164,Belfort,Strasbourg,2025-05-10 06:00:00,2025-05-13 14:15:00,Training,True,car,Peugeot 208,False,343,30,300,0,72,402,
+165,165,Belfort,Paris,2025-05-07 18:15:00,2025-05-10 08:00:00,Conference,True,plane,,True,505,0,300,120,73,493,Basel-Mulhouse
+166,166,Besançon,Dijon,2025-05-05 13:45:00,2025-05-06 12:15:00,Conference,True,car,Peugeot 208,False,331,10,100,0,123,233,
+167,167,Besançon,Marseille,2025-05-07 15:00:00,2025-05-10 15:15:00,Meeting,True,plane,,True,781,0,300,120,88,508,Dole-Jura
+168,168,Belfort,Paris,2025-05-05 07:15:00,2025-05-08 16:15:00,Conference,True,car,Fiat Panda,True,213,30,300,0,114,444,
+169,169,Besançon,Nice,2025-05-03 07:45:00,2025-05-05 19:30:00,Training,True,plane,,True,162,0,200,120,55,375,Dole-Jura
+170,170,Besançon,Toulouse,2025-05-01 18:45:00,2025-05-03 07:45:00,Training,True,car,Peugeot 208,True,654,20,200,0,147,367,
+171,171,Besançon,Lyon,2025-05-09 08:00:00,2025-05-12 07:30:00,Conference,True,car,Tesla Model 3,False,370,30,300,0,140,470,
+172,172,Montbéliard,Strasbourg,2025-05-06 16:00:00,2025-05-09 18:00:00,Conference,True,plane,,False,117,0,300,120,96,516,Basel-Mulhouse
+173,173,Montbéliard,Lyon,2025-05-04 15:00:00,2025-05-05 15:30:00,Training,True,plane,,True,464,0,100,120,75,295,Basel-Mulhouse
+174,174,Besançon,Dijon,2025-05-04 08:15:00,2025-05-07 18:45:00,Conference,True,car,Toyota Prius,True,211,30,300,0,141,471,
+175,175,Besançon,Strasbourg,2025-05-08 10:30:00,2025-05-09 13:30:00,Training,True,car,Audi A4,False,450,10,100,0,71,181,
+176,176,Montbéliard,Lyon,2025-05-04 11:30:00,2025-05-07 10:45:00,Conference,True,car,Tesla Model 3,False,246,30,300,0,94,424,
+177,177,Belfort,Toulouse,2025-05-10 12:15:00,2025-05-11 07:00:00,Conference,True,plane,,False,514,0,100,120,64,284,Basel-Mulhouse
+178,178,Besançon,Toulouse,2025-05-02 09:45:00,2025-05-04 11:00:00,Meeting,True,car,Peugeot 208,False,271,20,200,0,116,336,
+179,179,Belfort,Dijon,2025-05-03 20:00:00,2025-05-04 14:00:00,Conference,True,plane,,True,344,0,100,120,95,315,Basel-Mulhouse
+180,180,Besançon,Dijon,2025-05-11 10:45:00,2025-05-14 09:15:00,Meeting,True,plane,,True,716,0,300,120,92,512,Dole-Jura
+181,181,Besançon,Strasbourg,2025-05-02 06:45:00,2025-05-03 16:45:00,Training,True,car,Fiat Panda,True,269,10,100,0,78,188,
+182,182,Belfort,Dijon,2025-05-01 08:30:00,2025-05-02 16:00:00,Training,True,car,,True,647,10,100,0,75,185,
+183,183,Montbéliard,Nice,2025-05-04 13:15:00,2025-05-07 19:15:00,Meeting,True,plane,,True,770,0,300,120,98,518,Basel-Mulhouse
+184,184,Belfort,Paris,2025-05-01 19:30:00,2025-05-04 14:15:00,Training,True,plane,,True,431,0,300,120,101,521,Basel-Mulhouse
+185,185,Belfort,Toulouse,2025-05-07 19:30:00,2025-05-09 20:30:00,Meeting,True,car,,True,414,20,200,0,91,311,
+186,186,Montbéliard,Strasbourg,2025-05-11 14:45:00,2025-05-12 16:00:00,Conference,True,car,,True,562,10,100,0,118,228,
+187,187,Montbéliard,Nice,2025-05-03 17:45:00,2025-05-05 15:15:00,Training,True,car,,True,535,20,200,0,94,314,
+188,188,Besançon,Strasbourg,2025-05-06 20:45:00,2025-05-08 18:00:00,Conference,True,plane,,True,792,0,200,120,112,432,Dole-Jura
+189,189,Besançon,Nice,2025-05-11 06:15:00,2025-05-12 12:00:00,Conference,True,plane,,False,797,0,100,120,89,309,Dole-Jura
+190,190,Montbéliard,Dijon,2025-05-09 19:15:00,2025-05-11 11:15:00,Conference,True,car,Renault Clio,False,259,20,200,0,129,349,
+191,191,Besançon,Lyon,2025-05-08 07:15:00,2025-05-10 19:15:00,Training,True,plane,,False,216,0,200,120,76,396,Dole-Jura
+192,192,Belfort,Strasbourg,2025-05-08 15:15:00,2025-05-09 16:30:00,Conference,True,plane,,False,348,0,100,120,94,314,Basel-Mulhouse
+193,193,Montbéliard,Marseille,2025-05-11 17:30:00,2025-05-14 08:45:00,Meeting,True,plane,,True,524,0,300,120,106,526,Basel-Mulhouse
+194,194,Belfort,Paris,2025-05-08 15:30:00,2025-05-11 07:45:00,Training,True,car,Audi A4,False,790,30,300,0,134,464,
+195,195,Besançon,Marseille,2025-05-06 06:00:00,2025-05-09 15:45:00,Conference,True,plane,,True,160,0,300,120,104,524,Dole-Jura
+196,196,Belfort,Lyon,2025-05-02 12:00:00,2025-05-05 15:30:00,Conference,True,plane,,False,670,0,300,120,97,517,Basel-Mulhouse
+197,197,Besançon,Marseille,2025-05-04 11:30:00,2025-05-06 15:30:00,Conference,True,car,,False,653,20,200,0,80,300,
+198,198,Belfort,Paris,2025-05-11 16:30:00,2025-05-12 15:30:00,Conference,True,plane,,True,612,0,100,120,74,294,Basel-Mulhouse
+199,199,Montbéliard,Strasbourg,2025-05-08 10:45:00,2025-05-11 18:30:00,Conference,True,car,Audi A4,True,393,30,300,0,96,426,
+200,200,Montbéliard,Dijon,2025-05-07 14:15:00,2025-05-10 12:15:00,Meeting,True,plane,,True,788,0,300,120,131,551,Basel-Mulhouse
+201,201,Besançon,Lyon,2025-05-04 07:15:00,2025-05-06 16:30:00,Meeting,True,car,Peugeot 208,True,599,20,200,0,79,299,
+202,202,Montbéliard,Marseille,2025-05-05 07:00:00,2025-05-08 12:15:00,Conference,True,car,Renault Clio,False,103,30,300,0,104,434,
+203,203,Belfort,Strasbourg,2025-05-02 12:00:00,2025-05-03 08:30:00,Training,True,car,Tesla Model 3,False,509,10,100,0,109,219,
+204,204,Montbéliard,Nice,2025-05-07 06:00:00,2025-05-09 08:30:00,Training,True,plane,,True,103,0,200,120,51,371,Basel-Mulhouse
+205,205,Montbéliard,Marseille,2025-05-08 08:15:00,2025-05-10 17:00:00,Conference,True,plane,,False,192,0,200,120,119,439,Basel-Mulhouse
+206,206,Besançon,Toulouse,2025-05-10 13:30:00,2025-05-11 16:00:00,Meeting,True,plane,,True,391,0,100,120,142,362,Dole-Jura
+207,207,Belfort,Lyon,2025-05-08 15:00:00,2025-05-11 11:15:00,Training,True,car,,True,167,30,300,0,82,412,
+208,208,Besançon,Marseille,2025-05-01 17:45:00,2025-05-03 19:30:00,Conference,True,plane,,True,154,0,200,120,83,403,Dole-Jura
+209,209,Besançon,Toulouse,2025-05-07 09:45:00,2025-05-10 19:30:00,Training,True,car,,False,308,30,300,0,67,397,
+210,210,Belfort,Strasbourg,2025-05-08 18:00:00,2025-05-09 17:30:00,Training,True,plane,,False,234,0,100,120,120,340,Basel-Mulhouse
+211,211,Montbéliard,Marseille,2025-05-09 09:30:00,2025-05-11 15:15:00,Conference,True,car,,False,329,20,200,0,64,284,
+212,212,Belfort,Dijon,2025-05-03 12:30:00,2025-05-05 07:45:00,Training,True,car,,True,383,20,200,0,68,288,
+213,213,Montbéliard,Strasbourg,2025-05-02 13:30:00,2025-05-03 19:00:00,Training,True,car,Tesla Model 3,True,767,10,100,0,57,167,
+214,214,Besançon,Nice,2025-05-04 10:30:00,2025-05-06 10:30:00,Meeting,True,car,,True,252,20,200,0,62,282,
+215,215,Montbéliard,Strasbourg,2025-05-09 15:45:00,2025-05-10 07:15:00,Conference,True,car,Tesla Model 3,False,724,10,100,0,83,193,
+216,216,Montbéliard,Toulouse,2025-05-02 10:45:00,2025-05-05 15:45:00,Conference,True,car,Toyota Prius,False,510,30,300,0,113,443,
+217,217,Belfort,Toulouse,2025-05-10 17:45:00,2025-05-11 07:30:00,Conference,True,car,,False,337,10,100,0,86,196,
+218,218,Belfort,Toulouse,2025-05-05 20:00:00,2025-05-08 13:45:00,Meeting,True,car,Peugeot 208,True,332,30,300,0,143,473,
+219,219,Besançon,Toulouse,2025-05-04 07:00:00,2025-05-05 13:30:00,Meeting,True,car,Tesla Model 3,True,530,10,100,0,117,227,
+220,220,Besançon,Dijon,2025-05-11 19:15:00,2025-05-13 13:45:00,Training,True,plane,,True,415,0,200,120,79,399,Dole-Jura
+221,221,Montbéliard,Dijon,2025-05-11 16:30:00,2025-05-13 06:30:00,Training,True,plane,,True,289,0,200,120,105,425,Basel-Mulhouse
+222,222,Belfort,Strasbourg,2025-05-04 19:30:00,2025-05-07 16:45:00,Meeting,True,plane,,False,368,0,300,120,135,555,Basel-Mulhouse
+223,223,Montbéliard,Toulouse,2025-05-09 14:15:00,2025-05-11 14:00:00,Training,True,car,Peugeot 208,False,794,20,200,0,81,301,
+224,224,Belfort,Paris,2025-05-11 20:00:00,2025-05-12 15:00:00,Training,True,plane,,True,764,0,100,120,133,353,Basel-Mulhouse
+225,225,Montbéliard,Paris,2025-05-03 18:45:00,2025-05-05 09:15:00,Meeting,True,car,Audi A4,False,597,20,200,0,110,330,
+226,226,Belfort,Strasbourg,2025-05-10 15:45:00,2025-05-13 09:30:00,Conference,True,plane,,False,188,0,300,120,135,555,Basel-Mulhouse
+227,227,Montbéliard,Toulouse,2025-05-11 20:15:00,2025-05-14 16:00:00,Meeting,True,car,Audi A4,False,373,30,300,0,129,459,
+228,228,Belfort,Paris,2025-05-05 09:00:00,2025-05-07 17:45:00,Conference,True,plane,,False,435,0,200,120,92,412,Basel-Mulhouse
+229,229,Besançon,Dijon,2025-05-10 09:30:00,2025-05-13 13:45:00,Training,True,car,Toyota Prius,False,542,30,300,0,118,448,
+230,230,Besançon,Dijon,2025-05-04 18:15:00,2025-05-06 17:15:00,Conference,True,plane,,False,775,0,200,120,79,399,Dole-Jura
+231,231,Montbéliard,Toulouse,2025-05-04 10:45:00,2025-05-06 20:00:00,Conference,True,car,,False,433,20,200,0,54,274,
+232,232,Montbéliard,Strasbourg,2025-05-06 13:00:00,2025-05-08 18:30:00,Conference,True,car,Tesla Model 3,False,630,20,200,0,98,318,
+233,233,Montbéliard,Lyon,2025-05-06 18:00:00,2025-05-07 20:00:00,Conference,True,car,,False,664,10,100,0,68,178,
+234,234,Besançon,Lyon,2025-05-08 09:30:00,2025-05-11 06:45:00,Conference,True,plane,,True,507,0,300,120,142,562,Dole-Jura
+235,235,Montbéliard,Marseille,2025-05-01 19:00:00,2025-05-02 14:15:00,Conference,True,plane,,True,799,0,100,120,105,325,Basel-Mulhouse
+236,236,Belfort,Marseille,2025-05-11 07:45:00,2025-05-14 17:15:00,Conference,True,plane,,False,638,0,300,120,147,567,Basel-Mulhouse
+237,237,Montbéliard,Toulouse,2025-05-01 19:30:00,2025-05-02 16:30:00,Training,True,plane,,True,274,0,100,120,58,278,Basel-Mulhouse
+238,238,Besançon,Strasbourg,2025-05-03 16:15:00,2025-05-05 16:00:00,Training,True,plane,,True,761,0,200,120,86,406,Dole-Jura
+239,239,Belfort,Dijon,2025-05-07 18:15:00,2025-05-09 15:00:00,Conference,True,plane,,True,306,0,200,120,143,463,Basel-Mulhouse
+240,240,Besançon,Toulouse,2025-05-08 18:15:00,2025-05-09 15:30:00,Conference,True,car,Toyota Prius,True,187,10,100,0,107,217,
+241,241,Besançon,Marseille,2025-05-06 09:30:00,2025-05-09 14:30:00,Conference,True,car,Audi A4,True,637,30,300,0,55,385,
+242,242,Besançon,Marseille,2025-05-04 09:45:00,2025-05-06 18:30:00,Training,True,plane,,True,131,0,200,120,69,389,Dole-Jura
+243,243,Besançon,Marseille,2025-05-06 19:00:00,2025-05-08 19:00:00,Meeting,True,plane,,False,374,0,200,120,64,384,Dole-Jura
+244,244,Montbéliard,Toulouse,2025-05-03 13:45:00,2025-05-04 16:30:00,Training,True,car,Fiat Panda,False,709,10,100,0,87,197,
+245,245,Besançon,Lyon,2025-05-02 13:15:00,2025-05-05 08:00:00,Conference,True,plane,,True,574,0,300,120,55,475,Dole-Jura
+246,246,Belfort,Paris,2025-05-08 15:45:00,2025-05-10 09:00:00,Conference,True,car,Peugeot 208,False,720,20,200,0,132,352,
+247,247,Belfort,Marseille,2025-05-05 06:00:00,2025-05-07 20:00:00,Conference,True,plane,,True,357,0,200,120,132,452,Basel-Mulhouse
+248,248,Montbéliard,Toulouse,2025-05-03 16:30:00,2025-05-04 16:45:00,Training,True,plane,,False,128,0,100,120,79,299,Basel-Mulhouse
+249,249,Belfort,Strasbourg,2025-05-02 10:30:00,2025-05-04 16:00:00,Training,True,car,Peugeot 208,False,386,20,200,0,96,316,
+250,250,Montbéliard,Toulouse,2025-05-03 19:15:00,2025-05-06 19:15:00,Training,True,car,Fiat Panda,True,595,30,300,0,134,464,
+251,251,Besançon,Dijon,2025-05-11 13:00:00,2025-05-14 08:45:00,Conference,True,plane,,False,424,0,300,120,112,532,Dole-Jura
+252,252,Montbéliard,Lyon,2025-05-08 13:45:00,2025-05-10 16:15:00,Conference,True,plane,,False,233,0,200,120,58,378,Basel-Mulhouse
+253,253,Besançon,Paris,2025-05-06 11:30:00,2025-05-09 12:15:00,Training,True,car,,True,380,30,300,0,60,390,
+254,254,Montbéliard,Marseille,2025-05-10 19:15:00,2025-05-13 18:30:00,Conference,True,car,,True,755,30,300,0,131,461,
+255,255,Besançon,Lyon,2025-05-04 15:45:00,2025-05-06 12:30:00,Meeting,True,car,,False,718,20,200,0,64,284,
+256,256,Montbéliard,Toulouse,2025-05-06 13:00:00,2025-05-08 07:15:00,Conference,True,plane,,True,340,0,200,120,94,414,Basel-Mulhouse
+257,257,Belfort,Nice,2025-05-10 09:45:00,2025-05-12 09:30:00,Training,True,car,Toyota Prius,True,747,20,200,0,57,277,
+258,258,Belfort,Toulouse,2025-05-06 15:15:00,2025-05-08 20:45:00,Conference,True,plane,,True,488,0,200,120,119,439,Basel-Mulhouse
+259,259,Montbéliard,Strasbourg,2025-05-05 08:00:00,2025-05-08 08:00:00,Meeting,True,car,Renault Clio,False,587,30,300,0,121,451,
+260,260,Belfort,Marseille,2025-05-04 20:45:00,2025-05-05 07:00:00,Meeting,True,car,Peugeot 208,False,321,10,100,0,137,247,
+261,261,Belfort,Lyon,2025-05-05 07:45:00,2025-05-06 13:45:00,Meeting,True,car,,True,488,10,100,0,103,213,
+262,262,Besançon,Lyon,2025-05-04 19:45:00,2025-05-05 11:15:00,Training,True,plane,,False,768,0,100,120,93,313,Dole-Jura
+263,263,Montbéliard,Dijon,2025-05-10 08:30:00,2025-05-11 11:15:00,Meeting,True,plane,,True,540,0,100,120,125,345,Basel-Mulhouse
+264,264,Montbéliard,Dijon,2025-05-04 18:30:00,2025-05-06 18:15:00,Conference,True,car,Audi A4,False,744,20,200,0,150,370,
+265,265,Belfort,Dijon,2025-05-06 13:15:00,2025-05-08 18:30:00,Meeting,True,car,Peugeot 208,True,564,20,200,0,53,273,
+266,266,Belfort,Paris,2025-05-02 20:30:00,2025-05-04 16:00:00,Meeting,True,plane,,True,446,0,200,120,110,430,Basel-Mulhouse
+267,267,Montbéliard,Nice,2025-05-05 13:30:00,2025-05-06 20:15:00,Conference,True,plane,,True,280,0,100,120,106,326,Basel-Mulhouse
+268,268,Besançon,Paris,2025-05-11 20:00:00,2025-05-14 16:00:00,Conference,True,plane,,True,479,0,300,120,128,548,Dole-Jura
+269,269,Belfort,Strasbourg,2025-05-01 10:30:00,2025-05-03 13:15:00,Training,True,plane,,True,537,0,200,120,127,447,Basel-Mulhouse
+270,270,Besançon,Dijon,2025-05-09 19:15:00,2025-05-12 09:45:00,Training,True,plane,,False,215,0,300,120,55,475,Dole-Jura
+271,271,Montbéliard,Paris,2025-05-03 18:15:00,2025-05-05 11:45:00,Meeting,True,plane,,True,615,0,200,120,62,382,Basel-Mulhouse
+272,272,Belfort,Nice,2025-05-08 18:00:00,2025-05-10 09:15:00,Training,True,plane,,False,492,0,200,120,83,403,Basel-Mulhouse
+273,273,Belfort,Dijon,2025-05-05 17:15:00,2025-05-07 12:00:00,Conference,True,car,,False,712,20,200,0,73,293,
+274,274,Besançon,Toulouse,2025-05-04 11:30:00,2025-05-05 19:00:00,Conference,True,plane,,True,426,0,100,120,94,314,Dole-Jura
+275,275,Besançon,Lyon,2025-05-11 07:15:00,2025-05-14 20:30:00,Conference,True,plane,,True,505,0,300,120,83,503,Dole-Jura
+276,276,Montbéliard,Dijon,2025-05-09 13:15:00,2025-05-11 15:15:00,Conference,True,car,Fiat Panda,True,151,20,200,0,139,359,
+277,277,Besançon,Marseille,2025-05-08 19:45:00,2025-05-11 15:45:00,Training,True,plane,,False,620,0,300,120,52,472,Dole-Jura
+278,278,Besançon,Toulouse,2025-05-09 15:45:00,2025-05-11 10:15:00,Training,True,car,Toyota Prius,True,645,20,200,0,123,343,
+279,279,Belfort,Nice,2025-05-03 20:00:00,2025-05-06 09:30:00,Conference,True,plane,,True,142,0,300,120,74,494,Basel-Mulhouse
+280,280,Belfort,Toulouse,2025-05-05 06:45:00,2025-05-06 06:15:00,Training,True,car,Peugeot 208,False,327,10,100,0,83,193,
+281,281,Montbéliard,Lyon,2025-05-08 09:15:00,2025-05-09 16:15:00,Training,True,plane,,True,292,0,100,120,97,317,Basel-Mulhouse
+282,282,Montbéliard,Paris,2025-05-06 20:30:00,2025-05-09 20:00:00,Training,True,plane,,False,503,0,300,120,61,481,Basel-Mulhouse
+283,283,Besançon,Marseille,2025-05-06 06:00:00,2025-05-09 07:30:00,Meeting,True,plane,,True,183,0,300,120,95,515,Dole-Jura
+284,284,Montbéliard,Nice,2025-05-01 07:15:00,2025-05-02 11:45:00,Meeting,True,plane,,False,179,0,100,120,148,368,Basel-Mulhouse
+285,285,Belfort,Dijon,2025-05-08 12:15:00,2025-05-11 11:00:00,Conference,True,plane,,False,589,0,300,120,102,522,Basel-Mulhouse
+286,286,Belfort,Toulouse,2025-05-06 11:45:00,2025-05-08 19:15:00,Conference,True,plane,,False,192,0,200,120,118,438,Basel-Mulhouse
+287,287,Besançon,Paris,2025-05-10 11:45:00,2025-05-11 18:30:00,Meeting,True,car,Renault Clio,True,602,10,100,0,86,196,
+288,288,Belfort,Marseille,2025-05-05 16:15:00,2025-05-07 12:00:00,Conference,True,car,,False,562,20,200,0,62,282,
+289,289,Belfort,Strasbourg,2025-05-03 14:15:00,2025-05-05 16:30:00,Meeting,True,plane,,False,419,0,200,120,149,469,Basel-Mulhouse
+290,290,Besançon,Lyon,2025-05-06 10:30:00,2025-05-09 19:15:00,Meeting,True,car,Toyota Prius,False,215,30,300,0,81,411,
+291,291,Belfort,Paris,2025-05-06 14:45:00,2025-05-09 06:15:00,Conference,True,plane,,False,476,0,300,120,92,512,Basel-Mulhouse
+292,292,Belfort,Marseille,2025-05-05 13:00:00,2025-05-08 09:00:00,Meeting,True,plane,,True,655,0,300,120,126,546,Basel-Mulhouse
+293,293,Besançon,Dijon,2025-05-06 12:30:00,2025-05-07 16:00:00,Meeting,True,car,Audi A4,True,435,10,100,0,142,252,
+294,294,Belfort,Marseille,2025-05-02 20:00:00,2025-05-03 12:30:00,Conference,True,car,Peugeot 208,True,427,10,100,0,95,205,
+295,295,Montbéliard,Marseille,2025-05-03 12:45:00,2025-05-04 10:00:00,Training,True,plane,,True,220,0,100,120,89,309,Basel-Mulhouse
+296,296,Montbéliard,Strasbourg,2025-05-09 09:00:00,2025-05-11 15:15:00,Meeting,True,plane,,False,455,0,200,120,150,470,Basel-Mulhouse
+297,297,Besançon,Lyon,2025-05-06 09:00:00,2025-05-07 14:00:00,Training,True,plane,,False,344,0,100,120,87,307,Dole-Jura
+298,298,Besançon,Dijon,2025-05-02 18:45:00,2025-05-03 11:00:00,Conference,True,plane,,True,781,0,100,120,150,370,Dole-Jura
+299,299,Montbéliard,Nice,2025-05-03 19:15:00,2025-05-06 11:00:00,Meeting,True,car,Tesla Model 3,False,529,30,300,0,77,407,
+300,300,Besançon,Nice,2025-05-04 11:00:00,2025-05-05 11:45:00,Training,True,plane,,False,100,0,100,120,130,350,Dole-Jura
