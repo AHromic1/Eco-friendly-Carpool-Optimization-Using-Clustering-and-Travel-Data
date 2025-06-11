@@ -36,9 +36,16 @@ The project successfully demonstrated the potential of clustering-based carpool 
 
 ## Repository Contents
 
-- `allmissions.csv` — simulated travel mission data  
-- `personsnew.csv` — passenger and vehicle data  
-- `co22.csv` — CO₂ emission factors for vehicles  
+## Repository Contents
+
+- `Dataset/` — All input data used in clustering and optimization 
+- `Images/` — Screenshots of PCA plots, silhouette visualizations, and evaluation charts
+- `Results/` — Optimized outputs saved as CSV files for each experiment
+- `Eco_friendly_Carpool_Optimization_Using_Clustering_and_Travel_Data.ipynb` — Main notebook implementing preprocessing, clustering, optimization, and evaluation  
+- `Simulating_data.ipynb` — Notebook for generating synthetic datasets  
+- `Developer's guide.pdf` — Short guide explaining how to use the notebooks and replicate the results  
+- `README.md` — This documentation file
+
 - `Eco_friendly_Carpool_Optimization_Using_Clustering_and_Travel_Data.ipynb` — main notebook implementing preprocessing, clustering, optimization, and evaluation  
 - `Simulating_data.ipynb` — notebook for generating synthetic datasets  
 - `Developer's guide` — a short guide explaining how to use the two Colabs in order to replicate the obtained results.  
