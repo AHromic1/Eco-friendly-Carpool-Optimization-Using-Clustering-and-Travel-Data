@@ -49,15 +49,17 @@ The project successfully demonstrated the potential of clustering-based carpool 
 - `Eco_friendly_Carpool_Optimization_Using_Clustering_and_Travel_Data.ipynb` — main notebook implementing preprocessing, clustering, optimization, and evaluation  
 - `Simulating_data.ipynb` — notebook for generating synthetic datasets  
 - `Developer's guide` — a short guide explaining how to use the two Colabs in order to replicate the obtained results.  
+- `requirements.txt` — List of required Python packages  
 
 ## Getting Started
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/ahromic1/Eco-friendly-Carpool-Optimization-Using-Clustering-and-Travel-Data.git
+cd Eco-friendly-Carpool-Optimization-Using-Clustering-and-Travel-Data
 ```
-Upload or place the CSV datasets (allmissions.csv, personsnew.csv, co22.csv) in the project directory.
+use the CSV files provided in the Dataset/ folder: allmissions.csv, personsnew.csv, co22.csv.
+
 Note: If you do not have the datasets, they can be generated using the Simulating_data.ipynb notebook included in this repository.
 
 Open Eco_friendly_Carpool_Optimization_Using_Clustering_and_Travel_Data.ipynb in Google Colab or Jupyter Notebook. This notebook contains the main implementation of the clustering and optimization pipeline.
